@@ -1,6 +1,0 @@
-public class run {
-    public static void main(String[] args) {
-        // create a new GUI window
-        move demo = new move(5, 5);
-    }
-}
